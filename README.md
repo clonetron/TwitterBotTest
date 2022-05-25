@@ -1,11 +1,11 @@
 # TwitterBotTest
 
-Dependencies:
+### Dependencies:
 - tweepy
 - tkinter
 - python-dotenv
 
-Instructions for Developers:
+### Instructions for Developers:
 1) Make sure you have a Twitter Developer account with Elevated permissions.
 2) In the root folder, create a file named ".env"
 3) Paste the specified keys in the file:
