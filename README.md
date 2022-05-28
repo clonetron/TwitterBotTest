@@ -1,4 +1,6 @@
-# TwitterBotTest
+## HourQuotes Twitter Bot
+
+ HourQuotes is a Twitter bot designed to send an inspirational tweet every hour.
 
 ### Dependencies:
 - tweepy
