@@ -16,4 +16,5 @@
     > access_secret,
     
     In the format: "consumer_key="YOUR_KEY"
- 4) You are now able to run the main function.
+ 4) Run TweepyBot.exe
+ 5) Enjoy!
